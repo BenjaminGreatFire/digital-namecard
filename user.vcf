@@ -7,8 +7,8 @@ ORG:GreatFire;
 TITLE:Campaign and Advocacy Director\nAppCensorship Project Director
 EMAIL;type=INTERNET;type=WORK;type=pref:benjamin@greatfire.org
 TEL;type=WORK;type=VOICE:+33 6 63 13 76 13
-item1.ADR;type=WORK;type=pref:;;Paris\;;France
-item1.X-ABADR:sg
+item1.ADR;type=WORK;type=pref:;;Paris;;;France
+item1.X-ABADR:fr
 item2.URL;type=pref:greatfire.org
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
