@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+PRODID:-//AppleCensorship Inc.//iPhone OS 89.6.4//EN
 N:Ismail;Benjamin;;;
 FN: Benjamin Ismail 
-ORG:GovTech;
+ORG:GreatFire;
 TITLE:Campaign and Advocacy Director\nAppCensorship Project Director
 EMAIL;type=INTERNET;type=WORK;type=pref:benjamin@greatfire.org
 TEL;type=WORK;type=VOICE:+33 6 63 13 76 13
-item1.ADR;type=WORK;type=pref:;;Paris\;;;France
+item1.ADR;type=WORK;type=pref:;;Paris\;;France
 item1.X-ABADR:sg
 item2.URL;type=pref:greatfire.org
 item2.X-ABLabel:_$!<HomePage>!$_
