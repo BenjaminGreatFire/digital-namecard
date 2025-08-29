@@ -4,11 +4,13 @@ PRODID:-//AppleCensorship Inc.//iPhone OS 89.6.4//EN
 N:Ismail;Benjamin;;;
 FN: Benjamin Ismail 
 ORG:GreatFire;
-TITLE:Campaign and Advocacy Director\nAppCensorship Project Director
+TITLE:Campaign and Advocacy Director\nApp Censorship Project Director
 EMAIL;type=INTERNET;type=WORK;type=pref:benjamin@greatfire.org
 TEL;type=WORK;type=VOICE:+33663137613
 item1.ADR;type=WORK;type=pref:;;Paris;;;France
 item1.X-ABADR:fr
 item2.URL;type=pref:greatfire.org
+item3.URL;type=pref:applecensorship.com
+item4.URL;type=pref:googlecensorship.org
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
