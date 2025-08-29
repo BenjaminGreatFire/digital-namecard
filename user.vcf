@@ -1,16 +1,17 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//AppleCensorship Inc.//iPhone OS 89.6.4//EN
 N:Ismail;Benjamin;;;
-FN: Benjamin Ismail 
-ORG:GreatFire;
-TITLE:Campaign and Advocacy Director\nApp Censorship Project Director
-EMAIL;type=INTERNET;type=WORK;type=pref:benjamin@greatfire.org
-TEL;type=WORK;type=VOICE:+33663137613
-item1.ADR;type=WORK;type=pref:;;Paris;;;France
-item1.X-ABADR:fr
-item2.URL;type=pref:greatfire.org
-item3.URL;type=pref:applecensorship.com
-item4.URL;type=pref:googlecensorship.org
-item2.X-ABLabel:_$!<HomePage>!$_
+FN:Benjamin Ismail
+ORG:GreatFire
+TITLE:Campaign and Advocacy Director
+ROLE:App Censorship Project Director
+EMAIL;TYPE=INTERNET,WORK,PREF:benjamin@greatfire.org
+TEL;TYPE=WORK,VOICE:+33663137613
+ADR;TYPE=WORK,PREF:;; ;Paris;; ;France
+item1.URL;TYPE=WORK;TYPE=PREF:https://greatfire.org
+item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL;TYPE=WORK:https://applecensorship.com
+item2.X-ABLabel:AppleCensorship
+item3.URL;TYPE=WORK:https://googlecensorship.org
+item3.X-ABLabel:GoogleCensorship
 END:VCARD
